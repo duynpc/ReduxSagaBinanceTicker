@@ -1,0 +1,3 @@
+export const LOGIN_SCREEN = "LOGIN_SCREEN";
+export const GUEST_SCREEN = "GUEST_SCREEN";
+export const TICKER_SCREEN = "TICKER_SCREEN";
